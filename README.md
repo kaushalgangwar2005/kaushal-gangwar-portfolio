@@ -2,7 +2,6 @@
 
 This is my personal portfolio website built with HTML, CSS, and JavaScript. It showcases my skills, education, certifications, projects, and contact information in a clean, modern, and responsive design.
 
----
 ## 🚀 Features
 
 - Responsive Design (Mobile & Desktop Friendly)
@@ -15,11 +14,8 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 - Contact Section
 - GitHub Repository Links
 
----
-
 ## 📁 Project Structure
 
-```
 📂 Portfolio
 │── index.html        # Main Portfolio Page
 │── style.css         # Styling & Responsive Design
@@ -27,9 +23,6 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 │── images/           # Images & Project Assets
 │── resume.pdf        # Resume
 │── README.md         # Project Documentation
-```
-
----
 
 ## 🛠 Technologies Used
 
@@ -40,15 +33,11 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 - GitHub
 - GitHub Pages
 
----
-
 ## 🌐 Live Demo
 
 👉 **Portfolio Website**
 
 https://kaushalgangwar2005.github.io/kaushal-gangwar-portfolio/
-
----
 
 ## 💻 How to Run Locally
 
